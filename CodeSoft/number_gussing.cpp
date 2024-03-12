@@ -11,14 +11,14 @@ int main()
     cout<<"-------------WELCOME TO NUMBER GUESSING GAME-------------"<<endl;
     cout<<"Range of number is between 1 to 99"<<endl;
     do{ 
-    cout<<"Enter number"<<endl;
+    cout<<"Enter Number"<<endl;
     cin>>guess;
      if(rndnumbr>guess){
-        cout<<"Number low"<<endl;
+        cout<<"Number Low"<<endl;
     }
     else if (rndnumbr<guess)
     {
-        cout<<"Number high"<<endl;
+        cout<<"Number High"<<endl;
       
     }
     else {
