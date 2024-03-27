@@ -3,6 +3,7 @@
 #include<cstdlib>
 using namespace std;
 // Number guessing game
+//by abhinav
 int main()
 {
     int rndnumbr,guess,chance=0;
